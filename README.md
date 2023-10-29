@@ -1,8 +1,7 @@
 # Here is the live site
 
- [Login Page](https://aimed-login.netlify.app).
+ [Aimed Login Page](https://aimed-login.netlify.app).
 
-)).
 
 ## Available Scripts
 
