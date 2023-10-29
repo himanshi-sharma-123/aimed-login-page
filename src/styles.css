@@ -14,3 +14,9 @@ body {
   height: 100vh;
   margin: -20px 0 50px;
 }
+
+@media (max-width: 900px) {
+  body {
+    display: contents;
+  }
+}
